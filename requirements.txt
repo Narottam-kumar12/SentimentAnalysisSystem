@@ -1,0 +1,6 @@
+flask
+transformers
+torch
+streamlit
+requests
+numpy

@@ -1,0 +1,12 @@
+{"event": "prediction", "text": "This project is bad", "model_label": "Negative", "confidence": 0.9998189806938171, "timestamp": "2025-09-12T06:25:50.641996"}
+{"event": "prediction", "text": "modi government not do their work properly\n", "model_label": "Negative", "confidence": 0.999618649482727, "timestamp": "2025-09-12T06:31:22.844863"}
+{"event": "prediction", "text": " this project okay not special\n", "model_label": "Negative", "confidence": 0.6, "timestamp": "2025-09-12T06:31:48.899230"}
+{"event": "prediction", "text": " this project okay not special\n", "model_label": "Negative", "confidence": 0.6, "timestamp": "2025-09-12T06:31:57.531297"}
+{"event": "prediction", "text": " this project okay not special\n", "model_label": "Negative", "confidence": 0.6, "timestamp": "2025-09-12T06:32:14.578811"}
+{"event": "prediction", "text": " this project okay not special\n", "model_label": "Negative", "confidence": 0.6, "timestamp": "2025-09-12T06:32:15.396849"}
+{"event": "prediction", "text": "Modi government too bad", "model_label": "Negative", "confidence": 0.9990240335464478, "timestamp": "2025-09-18T09:10:45.157064"}
+{"event": "prediction", "text": "In india election commission does not work transparency\n", "model_label": "Negative", "confidence": 0.9996752738952637, "timestamp": "2025-09-18T09:13:14.839396"}
+{"event": "prediction", "text": "This product okay\n", "model_label": "Positive", "confidence": 0.6, "timestamp": "2025-09-18T09:15:48.949284"}
+{"event": "prediction", "text": "Asus laptop very good\n", "model_label": "Positive", "confidence": 0.9998031258583069, "timestamp": "2025-09-18T09:16:23.227127"}
+{"event": "prediction", "text": "Asus laptop very good\n", "model_label": "Positive", "confidence": 0.9998031258583069, "timestamp": "2025-09-18T09:35:25.728369"}
+{"event": "prediction", "text": "this is  too good I watch it again \n", "model_label": "Positive", "confidence": 0.9997887015342712, "timestamp": "2025-09-18T09:36:24.591294"}
