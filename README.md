@@ -44,12 +44,12 @@ SentimentAnalysisSystem/
 │── README.md # Project documentation
 
 ### Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate   # For Linux/Mac  
-venv\Scripts\activate      # For Windows
+- python -m venv venv
+- source venv/bin/activate   # For Linux/Mac  
+- venv\Scripts\activate      # For Windows
 
 ### Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 📊 Example
 Input
